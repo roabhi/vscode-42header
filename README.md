@@ -12,7 +12,7 @@ This extension provides the 42 header integration in VS Code.
 #                                                         :::      ::::::::    #
 #    sp-42header                                        :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: aporto <aporto@aporto.com>                 +#+  +:+       +#+         #
+#    By: aporto <xxxxxx@xxxxxx.xxx>                 +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2013/11/18 13:37:42 by aporto            #+#    #+#              #
 #    Updated: 2021/11/05 13:11:04 by aporto           ###   ########.sp        #
