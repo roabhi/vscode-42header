@@ -1,7 +1,3 @@
-<img
-  src="https://github.com/andersonhsporto/vscode-42header/blob/master/42.png" 
-  width=128>
-
 # 42 Header for VSCode
 
 This extension provides the 42 header integration in VS Code.
@@ -48,11 +44,6 @@ To override these values, specify these properties in *User Settings* :
   "42header.email": string
 }
 ```
-
-
-## Issues
-
-In case of a bug, or missing feature, please create a [Github Pull Request](https://github.com/kube/vscode-42header/pulls).
 
 ## License
 
