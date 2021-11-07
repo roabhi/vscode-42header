@@ -1,6 +1,6 @@
 # 42 Header for VSCode
 
-This extension provides the 42 header integration in VS Code.
+This extension provides the 42 header integration in VS Code (Barcelona edition)
 
 ```bash
 # **************************************************************************** #
