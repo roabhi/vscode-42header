@@ -6,12 +6,12 @@ This extension provides the 42 header integration in VS Code.
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    sp-42header                                        :+:      :+:    :+:    #
+#    bcn42header                                        :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: aporto <xxxxxx@xxxxxx.xxx>                 +#+  +:+       +#+         #
+#    By: roabhi <xxxxxx@xxxxxx.xxx>                 +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2013/11/18 13:37:42 by aporto            #+#    #+#              #
-#    Updated: 2021/11/05 13:11:04 by aporto           ###   ########.sp        #
+#    Created: 2013/11/18 13:37:42 by roabhi            #+#    #+#              #
+#    Updated: 2021/11/05 13:11:04 by roabhi           ###   ########.bcn       #
 #                                                                              #
 # **************************************************************************** #
 ```
